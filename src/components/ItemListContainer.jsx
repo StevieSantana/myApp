@@ -1,9 +1,8 @@
 import React from "react";
-import Title from "./Title";
 
-export const ItemListContainer = ({ text}) => {
+export const ItemListContainer = ({ greeting}) => {
     return (
-        <Title greeting={text}/>
+     <h2 className="greet">{greeting}</h2>
     );
 
 };

@@ -7,7 +7,7 @@ export const NavBar = () => {
             <div ></div>
             <ul className="nav__list">
                 <li className="nav__li" >
-                    <h1 className="sign">HOLLY DONUTS</h1>
+                    <h1 className="sign">SHELLY'S BOOKSHOP</h1>
                 </li>
                 <li className="nav__li">
                     <a className="nav__link" href="">
